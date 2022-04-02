@@ -1,0 +1,61 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 50px;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 50px;
+    background: rgb(148, 82, 172);
+  }
+  
+  button:hover {
+    background-color: #008cba;
+    color: white;
+  }
+  
+  h2 {
+    color: 8b008b;
+    font-size: 30px;
+  }
